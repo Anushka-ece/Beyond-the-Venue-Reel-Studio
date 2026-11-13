@@ -1,0 +1,436 @@
+# UNIVERSAL AI IMAGE-TO-VIDEO MASTER PROMPT
+
+## Advanced Photorealistic Video Generation System
+
+### Beyond the Venue | Universal Creative Production Standard
+
+## PRIMARY OBJECTIVE
+Convert the uploaded reference photograph into a realistic, high-quality, cinematic video using AI image-to-video generation.
+
+This is NOT a photo editor, slideshow creator, image transition generator or simple camera-animation task.
+
+The objective is to transform a static photograph into a believable moving scene in which the actual subjects, objects, environmental elements and surroundings demonstrate appropriate physical movement.
+
+The generated result should resemble footage captured by a professional cinematographer using a real camera in the actual environment.
+
+The instructions below apply to ALL possible image categories, including but not limited to:
+
+- Weddings, engagements, receptions and celebrations.
+- Event decorations, stages, floral arrangements and venues.
+- Birthdays, anniversaries and private parties.
+- People, portraits, fashion, lifestyle and social gatherings.
+- Animals, birds, wildlife and nature.
+- Landscapes, mountains, beaches, rivers and waterfalls.
+- Buildings, architecture, interiors and real estate.
+- Restaurants, hotels, cafes and hospitality spaces.
+- Products, commercial photography and advertisements.
+- Cars, bikes, transportation and machinery.
+- Food, beverages and culinary photography.
+- Travel, tourism, cities and streets.
+- Art, crafts, jewellery and creative installations.
+- Nature, weather, sky and environmental scenes.
+- Any other photograph uploaded by the user.
+Do not assume the category in advance. Analyse every image independently.
+
+---
+
+# 1. INTELLIGENT IMAGE UNDERSTANDING
+Before generating the video, thoroughly interpret the uploaded photograph.
+
+Identify:
+
+1. The primary subject.
+2. Secondary subjects.
+3. Background elements.
+4. Foreground elements.
+5. Objects capable of natural movement.
+6. Environmental conditions.
+7. Lighting conditions.
+8. Spatial relationships and depth.
+9. The scene's likely context and purpose.
+10. Possible natural interactions between subjects and objects.
+Determine what is happening in the image and what could realistically happen immediately before or after the captured moment.
+
+Do not introduce a fictional storyline that contradicts the photograph.
+
+The animation must be context-aware and specific to the image.
+
+# 2. ACTUAL OBJECT AND SUBJECT MOVEMENT
+The most important requirement is genuine movement within the scene.
+
+Animate the actual visible subjects and objects wherever appropriate.
+
+Depending on the image category, consider the following possibilities.
+
+### A. Human movement
+When people are present, generate natural movements such as:
+
+- Walking forward or backwards.
+- Turning their heads.
+- Looking around.
+- Smiling and changing facial expressions subtly.
+- Talking and gesturing naturally.
+- Moving their hands and arms.
+- Sitting down or standing up.
+- Adjusting clothing.
+- Interacting with nearby people.
+- Handling objects.
+- Performing context-appropriate activities.
+- Natural breathing and subtle body movement.
+- Appropriate group interactions.
+Maintain facial identity, body proportions, clothing, hairstyles and other identifiable visual characteristics.
+
+Avoid exaggerated gestures, unnatural expressions and distorted anatomy.
+
+Do not invent additional people.
+
+### B. Animals and wildlife
+When animals are present, consider:
+
+- Walking, running or jumping.
+- Head and eye movements.
+- Ear and tail movement.
+- Wing flapping.
+- Flying or swimming.
+- Natural interaction with the environment.
+- Feeding or grooming behaviour where appropriate.
+Preserve species characteristics, body structure and natural behaviour.
+
+### C. Nature and environmental movement
+When natural elements are visible, animate:
+
+- Trees and leaves swaying.
+- Flowers moving gently.
+- Grass responding to wind.
+- Clouds travelling naturally.
+- Water flowing.
+- Ocean waves moving and breaking.
+- Waterfalls cascading.
+- Rain falling.
+- Snow falling.
+- Smoke moving with airflow.
+- Dust and atmospheric particles.
+- Sunlight and shadows changing subtly.
+- Reflections moving naturally.
+Respect the actual environmental conditions in the photograph.
+
+### D. Fabric and decorative elements
+When fabric or decorations are present, animate:
+
+- Curtains swaying.
+- Drapes flowing.
+- Clothing moving naturally.
+- Ribbons fluttering.
+- Hanging decorations swinging.
+- Floral installations moving gently.
+- Loose petals falling.
+- Decorative tassels responding to air movement.
+- Balloons moving subtly.
+- Hanging lights swinging slightly.
+Preserve the original arrangement, colour scheme and decorative design.
+
+### E. Lighting and illumination
+Where appropriate, generate:
+
+- Candle flames flickering.
+- Fairy lights shimmering.
+- Decorative lights glowing.
+- Neon lights illuminating the surroundings.
+- Natural reflections.
+- Realistic light interaction.
+- Subtle changes in illumination.
+- Moving shadows caused by actual scene movement.
+- Light rays and atmospheric illumination.
+Avoid excessive flashing, artificial brightness and inconsistent lighting.
+
+### F. Water, liquids and fluids
+When water or liquids are present, consider:
+
+- Flowing water.
+- Ripples.
+- Splashes.
+- Droplets falling.
+- Pouring liquids.
+- Fountains operating.
+- Waves moving.
+- Reflections responding to water movement.
+- Natural fluid interactions.
+Maintain realistic fluid behaviour.
+
+### G. Vehicles and machinery
+When vehicles or machines are visible, consider:
+
+- Wheels rotating.
+- Vehicles moving.
+- Headlights illuminating the surroundings.
+- Moving mechanical components.
+- Realistic operational movement.
+- Smoke or exhaust where contextually appropriate.
+- Natural interactions between vehicles and the environment.
+Never create impossible mechanical movements.
+
+### H. Food and products
+When food or products are present, consider:
+
+- Steam rising from hot food.
+- Liquids being poured.
+- Ingredients moving naturally.
+- Packaging being opened.
+- Product rotation where appropriate.
+- Reflections changing with lighting.
+- Realistic interactions with hands when people are visible.
+Preserve product identity, branding, packaging, labels and text.
+
+Do not arbitrarily alter the product.
+
+### I. Architecture and interiors
+When buildings or interiors are present, consider:
+
+- Moving curtains.
+- Changing natural light.
+- Moving shadows.
+- Subtle environmental movement.
+- Operating fans or visible mechanical elements.
+- Reflections on glass.
+- Natural movement of plants.
+- Appropriate movement of people already present.
+Do not change the architectural structure, room dimensions or furniture placement.
+
+These are context-specific possibilities, not mandatory effects. Only animate elements actually supported by the photograph.
+
+---
+
+# 3. PHYSICAL REALISM AND MOTION ACCURACY
+Every movement must obey realistic physical behaviour.
+
+Enforce:
+
+- Natural acceleration and deceleration.
+- Realistic gravity.
+- Correct object weight and inertia.
+- Appropriate movement speed.
+- Consistent object dimensions.
+- Natural collision and contact behaviour.
+- Realistic fabric deformation.
+- Accurate water and fluid behaviour.
+- Anatomically plausible human and animal movement.
+- Consistent object positioning and spatial relationships.
+Avoid:
+
+- Floating objects without a physical explanation.
+- Objects moving through solid surfaces.
+- Objects changing shape.
+- Objects appearing and disappearing.
+- Sudden direction changes.
+- Random movements.
+- Excessive movement.
+- Unnatural physics.
+Motion must be subtle when the scene requires subtlety and dynamic when the scene supports dynamic movement.
+
+---
+
+# 4. CAMERA MOVEMENT AND CINEMATOGRAPHY
+Do not rely on camera movement alone to create the video.
+
+Actual subject and object movement is the priority.
+
+Choose an appropriate professional camera technique according to the scene.
+
+Possible camera movements:
+
+- Cinematic push-in.
+- Cinematic pull-back.
+- Slow tracking shot.
+- Smooth horizontal pan.
+- Controlled vertical tilt.
+- Dolly movement.
+- Orbital camera movement.
+- Sideways tracking.
+- Parallax movement.
+- Perspective-based camera movement.
+- Controlled handheld movement.
+- Static camera with moving subjects.
+- Subtle rack focus.
+- Foreground-to-background focus transition.
+Use only movements that can be achieved without compromising the original scene.
+
+Avoid unnecessary camera rotation, excessive zooming, unstable motion or artificial perspective distortion.
+
+# 5. DEPTH, PERSPECTIVE AND SPATIAL CONSISTENCY
+Generate realistic depth wherever possible.
+
+- Maintain correct foreground, middle-ground and background relationships.
+- Preserve object boundaries.
+- Maintain realistic perspective.
+- Avoid stretching or warping.
+- Avoid background displacement.
+- Preserve the original composition.
+- Generate natural depth-of-field when suitable.
+- Maintain consistent subject positioning throughout the clip.
+Do not invent hidden objects or details that cannot be reasonably inferred.
+
+# 6. SUBJECT AND IMAGE PRESERVATION
+The uploaded photograph is the primary visual reference and must remain the source of truth.
+
+Preserve:
+
+- Original people and their identities.
+- Faces and facial characteristics.
+- Clothing and accessories.
+- Products and their designs.
+- Furniture and architecture.
+- Decoration arrangements.
+- Original colours.
+- Background elements.
+- Lighting direction.
+- Scene composition.
+- Recognisable environmental details.
+- Text, logos and brand elements.
+Do not unnecessarily redesign, replace, remove, recolour or duplicate existing objects.
+
+Do not create additional subjects unless explicitly requested.
+
+Do not change the scene's purpose or identity.
+
+# 7. REALISTIC HUMAN IDENTITY AND ANATOMY
+When people are present, pay special attention to identity preservation.
+
+- Maintain consistent faces.
+- Preserve facial proportions.
+- Maintain realistic skin texture.
+- Preserve clothing and accessories.
+- Keep the correct number of people.
+- Maintain anatomically correct hands.
+- Avoid extra fingers or missing limbs.
+- Avoid unnatural eye movement.
+- Avoid distorted facial expressions.
+- Avoid identity switching.
+- Avoid changes in age or appearance.
+All movement must look physically natural.
+
+# 8. LIGHTING, COLOUR AND VISUAL CONSISTENCY
+Maintain consistent lighting throughout the video.
+
+Use:
+
+- Realistic highlights.
+- Natural shadows.
+- Accurate reflections.
+- Consistent exposure.
+- Appropriate colour temperature.
+- Realistic ambient illumination.
+- Natural contrast.
+- Accurate surface textures.
+Adapt the visual treatment to the original photograph.
+
+Do not automatically apply warm, golden, cinematic or vintage filters to every image.
+
+Do not oversaturate colours or introduce artificial lighting effects.
+
+# 9. CINEMATIC VISUAL STYLE
+Aim for professional commercial-quality cinematography.
+
+The final video should have:
+
+- Photorealistic rendering.
+- Natural motion.
+- High-quality textures.
+- Accurate details.
+- Smooth movement.
+- Realistic depth.
+- Stable geometry.
+- Natural environmental interactions.
+- Professional lighting.
+- Consistent visual identity.
+Avoid cartoon-like animation, excessive CGI effects, artificial rendering and obvious AI-generated distortions unless specifically requested.
+
+# 10. TEMPORAL CONSISTENCY
+Maintain continuity across every frame.
+
+Ensure:
+
+- The primary subject remains recognisable.
+- Objects maintain consistent shapes.
+- Background structures remain stable.
+- Lighting does not change randomly.
+- Movement evolves continuously.
+- No flickering geometry.
+- No sudden object duplication.
+- No disappearing elements.
+- No abrupt subject transformations.
+- No unexpected scene transitions.
+Generate a coherent continuous scene rather than a collection of unrelated frames.
+
+# 11. VIDEO DURATION AND MOTION INTENSITY
+Use the duration supported by the selected generation model.
+
+Prioritise meaningful movement over unnecessary clip length.
+
+Movement intensity should be determined by the subject and environment.
+
+Use:
+
+- Subtle movement for portraits, interiors and delicate decorations.
+- Moderate movement for lifestyle, travel and environmental footage.
+- Dynamic movement for sports, vehicles, animals and action scenes when appropriate.
+Do not force dramatic motion into a photograph that requires a calm atmosphere.
+
+# 12. AUDIO REQUIREMENTS
+Do not automatically add background music, songs, voiceovers or soundtracks.
+
+If the generation model supports ambient sound and the scene benefits from it, only use realistic environmental audio when explicitly requested.
+
+Otherwise, generate a silent video.
+
+# 13. STRICT NEGATIVE INSTRUCTIONS
+The following outcomes are unacceptable:
+
+- Static photographs with only camera zoom.
+- Simple panning across a still image.
+- Slideshow transitions.
+- Frozen subjects.
+- Fake movement created entirely by motion blur.
+- Unnatural object animation.
+- Distorted human faces.
+- Deformed hands and bodies.
+- Duplicated objects.
+- Changing product designs.
+- Changing architectural structures.
+- Inconsistent backgrounds.
+- Random environmental effects.
+- Unnecessary additional subjects.
+- Unwanted text or watermarks.
+- Unnatural lighting changes.
+- Excessive camera shake.
+- Melting, warping or morphing objects.
+- Abrupt scene changes.
+- Artificial cartoon effects.
+- Visually implausible physical interactions.
+
+# 14. FINAL QUALITY CONTROL
+Before finalising the generated result, evaluate:
+
+1. Is there actual movement within the scene?
+2. Are the movements appropriate for the uploaded photograph?
+3. Do the subjects and objects retain their original appearance?
+4. Is the movement physically believable?
+5. Are faces and body structures consistent?
+6. Is the background stable?
+7. Is the lighting consistent?
+8. Is the camera movement appropriate?
+9. Does the result look like real captured footage?
+10. Are there obvious AI-generated distortions?
+If the result fails these checks, refine the generation using a more conservative motion instruction and regenerate where possible.
+
+# 15. FINAL GENERATION DIRECTIVE
+Generate an actual AI-created video from the uploaded image.
+
+Do not produce an edited photograph, animated still, slideshow, transition effect or simple zoom sequence.
+
+The video must contain genuine, contextually appropriate movement of visible subjects, objects and environmental elements wherever the photograph supports it.
+
+Use intelligent scene understanding to determine what should move, how it should move, and how the camera should capture that movement.
+
+Preserve the original photograph's identity while transforming its static scene into believable moving footage.
+
+**THE FINAL STANDARD: THE RESULT SHOULD LOOK AS THOUGH THE ORIGINAL PHOTOGRAPH HAS COME TO LIFE AND A PROFESSIONAL VIDEOGRAPHER HAS CAPTURED THE SCENE IN REAL TIME.**

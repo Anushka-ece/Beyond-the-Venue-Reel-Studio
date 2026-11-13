@@ -1,0 +1,13 @@
+﻿.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+output/
+input_images/
+assets/brand_logo.png
+.DS_Store
+Thumbs.db
+.pytest_cache/
+.streamlit/secrets.toml
